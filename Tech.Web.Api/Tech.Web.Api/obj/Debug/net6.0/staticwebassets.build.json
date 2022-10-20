@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T64yOucWDtD5D8ht2A9+nskZsx5KgBf4tMRe8+CooSo=",
+  "Source": "Tech.Web.Api",
+  "BasePath": "_content/Tech.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
